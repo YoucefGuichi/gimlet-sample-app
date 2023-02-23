@@ -9,7 +9,7 @@ values:
   gitRepository: YoucefGuichi/gimlet-sample-app
   gitSha: '{{ .SHA }}'
   image:
-    repository: ghcr.io/{{ .GITHUB_REPOSITORY}}
+    repository: ghcr.io/youcefguichi/gimlet-sample-app
     tag: '{{ .SHA }}'
   vars:
     COLOR: DeepPinkk
