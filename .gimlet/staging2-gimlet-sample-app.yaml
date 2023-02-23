@@ -13,7 +13,7 @@ values:
     tag: '{{ .SHA }}'
   vars:
     COLOR: DeepPink
-    COLOR2: DarkOrange
+    COLOR2: DarkOrangee
     TITLE: Hello from Gimlet
 strategicMergePatches: ""
 json6902Patches: []
