@@ -12,7 +12,7 @@ values:
     repository: ghcr.io/youcefguichi/gimlet-sample-app
     tag: '{{ .SHA }}'
   vars:
-    COLOR: DeepPinkk
+    COLOR: DeepPink
     COLOR2: DarkOrange
     TITLE: Hello from Gimlet
 strategicMergePatches: ""
