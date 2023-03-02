@@ -12,7 +12,7 @@ values:
     repository: ghcr.io/gimlet-io/gimlet-sample-app
     tag: v1.0.0
   vars:
-    COLOR: DeepPink
+    COLOR: DeepPinkk
     COLOR2: DarkOrange
     TITLE: Hello from Gimlet
 strategicMergePatches: ""
